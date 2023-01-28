@@ -1,0 +1,28 @@
+#main {
+    background-color: blue;
+  }
+  
+  #img-div{
+
+  }
+  #img-caption{
+
+  }
+
+  main > img-div {
+background-color: yellow;
+}
+
+main > image {
+background-color: yellow;
+}
+
+main > imgage caption {
+background-color: yellow;
+}
+main > tribute-info {
+background-color: yellow;
+}
+main > tribute-link {
+background-color: yellow;
+}
