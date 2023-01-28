@@ -1,6 +1,4 @@
-#img-div {
-  
-}
+
  #img-div, p{
     text-align: center;
   }
@@ -23,7 +21,10 @@ main > #image {
     }
 
 main > #image caption {
-    background-color: white;
+position: absolute; 
+display: block;
+margin-left: auto;
+margin-right: auto;   background-color: white;
 }
 main > #tribute-info {
     text-align: center;
@@ -32,6 +33,4 @@ main > #tribute-info {
 main > #tribute-link {
     background-color: white;
 }
-
-
 
