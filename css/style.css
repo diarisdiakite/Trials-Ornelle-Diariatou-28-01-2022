@@ -1,3 +1,15 @@
+#img-div {
+  
+}
+ #img-div, p{
+    text-align: center;
+  }
+ #img-caption{
+   text-align: center;
+  }
+main {
+  background-color: #E0E0E0;
+}
 #main {
     background-color: white;
   }
