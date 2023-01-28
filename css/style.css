@@ -1,28 +1,25 @@
 #main {
-    background-color: blue;
+    background-color: white;
   }
   
-  #img-div{
+main > #img-div {
+    background-color: white;
+    }
 
-  }
-  #img-caption{
+main > #image {
+    background-color: white;
+    }
 
-  }
-
-  main > img-div {
-background-color: yellow;
+main > #image caption {
+    background-color: white;
+}
+main > #tribute-info {
+    text-align: center;
+    background-color: white;
+}
+main > #tribute-link {
+    background-color: white;
 }
 
-main > image {
-background-color: yellow;
-}
 
-main > imgage caption {
-background-color: yellow;
-}
-main > tribute-info {
-background-color: yellow;
-}
-main > tribute-link {
-background-color: yellow;
-}
+
